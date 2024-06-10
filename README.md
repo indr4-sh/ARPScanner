@@ -17,5 +17,5 @@ pip3 install scapy
 ## Usage 
 
 ```bash
-pip3 install scapy
+sudo python3 arp_scanner.py -t 192.168.1.1/24 
 ```
